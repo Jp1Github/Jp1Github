@@ -1,5 +1,5 @@
-- 👋 Hi, I’m John Narvaez and very new in using Github. At the moment this is a bit and hoping to improve my github repository.
-- 👀 I’m interested in learning about computer related.
+- 👋 Hi, I’m John Narvaez and lives in Surrey BC Canada.
+- 👀 I enjoyed solving puzzle and analyzing things. Also I’m interested in learning about computer related and continually strive to learn new things.
 - 🌱 I’m currently learning data analytics and currently taking a certificate course on it at Brainstation in Vancouver BC Canada.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
