@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Narvaez and lives in Surrey BC Canada.
+- 👋 Hi, I’m John Narvaez and I live in Surrey British Columbia Canada.
 - 👀 I enjoyed solving puzzle and analyzing things. Also I’m interested in learning about computer related and continually strive to learn new things.
 - 🌱 Previously took a data analytics certificate course at Brainstation in Vancouver BC Canada.
 - 💞️ I’m looking to collaborate on further enhancing my data analytics skills like data cleaning, visualization and alike.
