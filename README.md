@@ -20,6 +20,8 @@ You can also check out my [GitHub] repositories to see the projects I have worke
 
 : [LinkedIn](https://www.linkedin.com/in/john-narvaez-7220164a/)
 
+: [Tableau Public Profile](https://public.tableau.com/app/profile/john.paolo.narvaez/vizzes)
+
 <!---
 Jp1Github/Jp1Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
