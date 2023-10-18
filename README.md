@@ -18,7 +18,7 @@ I enjoy exploring new datasets, technologies, and methodologies that can help me
 You can reach me through my email at jpnar_99@yahoo.com or my [LinkedIn] profile. 
 You can also check out my [GitHub] repositories to see the projects I have worked on and learning various tools.
 
-: https://www.linkedin.com/in/john-narvaez-7220164a/ : https://github.com/jpnarvaez
+: https://www.linkedin.com/in/john-narvaez-7220164a/
 <!---
 Jp1Github/Jp1Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
