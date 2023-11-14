@@ -22,6 +22,8 @@ You can also check out my [GitHub] repositories to see the projects I have worke
 
 : [Tableau Public Profile](https://public.tableau.com/app/profile/john.paolo.narvaez/vizzes)
 
+: [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+
 <!---
 Jp1Github/Jp1Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
