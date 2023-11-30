@@ -10,7 +10,7 @@ Data Analyst | Quality Control Technician
 
 💞️ My goals and interests I am looking for work and collaboration opportunities with other data analysts/scientists to further enhance my data analytics skills and learn from their expertise. I am passionate about finding insights from data and creating impactful solutions for real-world problems. I enjoy exploring new datasets, technologies, and methodologies that can help me improve my data science skills, understanding and knowledge. 
 
-📫 How to reach me You can reach me through my email at jpnar\_99@yahoo.com or my LinkedIn profile. You can also check out my GitHub repositories to see the projects I have worked on and learning various tools.
+📫 You can also check out my GitHub repositories to see the projects I have worked on and learning various tools.
 * 🌍  I'm based in Surrey BC
 * ✉️  You can contact me at [jpnar\_99@yahoo.com](mailto:jpnar_99@yahoo.com)
 * : [Tableau Public Profile](https://public.tableau.com/app/profile/john.paolo.narvaez/vizzes)
