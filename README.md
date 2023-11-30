@@ -15,8 +15,8 @@ I enjoy exploring new datasets, technologies, and methodologies that can help me
 
 📫 How to reach me
 
-You can reach me through my email at jpnar_99@yahoo.com or my [LinkedIn] profile. 
-You can also check out my [GitHub] repositories to see the projects I have worked on and learning various tools.
+You can reach me through my email at jpnar_99@yahoo.com or my LinkedIn profile. 
+You can also check out my GitHub repositories to see the projects I have worked on and learning various tools.
 
 : [Tableau Public Profile](https://public.tableau.com/app/profile/john.paolo.narvaez/vizzes)
 
