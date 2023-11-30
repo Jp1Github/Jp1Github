@@ -19,7 +19,6 @@ You can reach me through my email at jpnar_99@yahoo.com or my [LinkedIn] profile
 You can also check out my [GitHub] repositories to see the projects I have worked on and learning various tools.
 
 : [Tableau Public Profile](https://public.tableau.com/app/profile/john.paolo.narvaez/vizzes)
-<img class="_logo_1qykc_93" alt="Logo" src="/app/assets/tableau-public-logo-rgb.07774149.svg">
 
 : [Leetcode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
