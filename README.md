@@ -18,8 +18,6 @@ I enjoy exploring new datasets, technologies, and methodologies that can help me
 You can reach me through my email at jpnar_99@yahoo.com or my [LinkedIn] profile. 
 You can also check out my [GitHub] repositories to see the projects I have worked on and learning various tools.
 
-: [LinkedIn](https://www.linkedin.com/in/john-narvaez-7220164a/)
-
 : [Tableau Public Profile](https://public.tableau.com/app/profile/john.paolo.narvaez/vizzes)
 
 : [Leetcode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
