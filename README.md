@@ -28,4 +28,4 @@ You can also check out my [GitHub] repositories to see the projects I have worke
 Jp1Github/Jp1Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="Screenshot 2023-08-15 232534.png" alt="" width="400">
+
